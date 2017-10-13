@@ -10,7 +10,7 @@ html{
 }
 html,body{
     background-color: #d4d4d4;
-    font-family: 'EB Garamond','Times New Roman',Georgia serif;
+    font-family: 'EB Garamond','Times New Roman',Georgia, serif;
     color: brown;
 }
 h1{
